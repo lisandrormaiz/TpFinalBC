@@ -16,7 +16,7 @@
       "description": "Modo desarrollo"
     },
     {
-      "url": "https://ecommercer-ch-mel-proyecto-fin.herokuapp.com/",
+      "url": "https://ecommercer-ch-lrm-proyecto-fin.herokuapp.com/",
       "variables": {},
       "description": "Modo producción"
     }
