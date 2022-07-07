@@ -10,7 +10,7 @@
     "watch": "set NODE_ENV=development&& nodemon ."
   },
   "keywords": [],
-  "author": "Mathías Ezequiel Latrónico",
+  "author": "Lisandro Maiz",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
